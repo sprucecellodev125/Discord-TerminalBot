@@ -1,0 +1,30 @@
+{
+  "name": "discord-terminalbot",
+  "version": "1.0.0",
+  "description": "A Discord bot that can execute terminal commands",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MiracleCherryPie/Discord-TerminalBot.git"
+  },
+  "keywords": [
+    "discord",
+    "discord-bot",
+    "shell",
+    "bash",
+    "exec"
+  ],
+  "author": "MiracleCherryPie",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MiracleCherryPie/Discord-TerminalBot/issues"
+  },
+  "homepage": "https://github.com/MiracleCherryPie/Discord-TerminalBot#readme",
+  "dependencies": {
+    "aoi.js": "5.5.5"
+  }
+}
+
